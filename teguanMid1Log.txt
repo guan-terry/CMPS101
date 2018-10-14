@@ -1,0 +1,6 @@
+Q1: 1/1
+Q2: 0.25/1--does not evaluate limit
+Q3: 1/1
+Q4: 1.33/2.33--incorrect runtime
+Q5: 2.33
+Q6: 0.25/2.33
